@@ -34,3 +34,5 @@ NEXT STEPS:
 
 - take dataset about something i'm passionate about
 - try to train a model and predict something
+
+maybe tennis - predict grand slam ATP/WTA top 10 at the end of 2026?
