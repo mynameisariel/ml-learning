@@ -29,3 +29,8 @@ finished going through ml stock market predictor tutorial
 
 - learned how to create model with pytorch and scikit
 - how to train and use predictors
+
+NEXT STEPS:
+
+- take dataset about something i'm passionate about
+- try to train a model and predict something
