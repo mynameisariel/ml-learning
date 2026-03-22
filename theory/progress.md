@@ -15,13 +15,21 @@ started linear regression section
 
 - learned about mathematical equation used
 - learned about what loss is, how to choose loss, and equations for loss
+  - loss is the difference between model's predicted outputs and actual target values (calculated tthrough vearious mathematical functions)
+  - loss function should be minimized through training
 
 ## 03/12/2026
 
 - gradient descent: iterating through training to improve model
 - weight and bias improvements
 - learning rate and how it affects the model
-- stochastic gradient descentt / multi batch SGD: different types of gradient descent methods
+  - learning rate is a HYPERPARAMETER that controls step size which model's parameters are updated during training (how much it adjusts weightts in response to error)
+  - need to balance speed of leraning rate against risk of overshooting
+  - HIGH = rapid convergence but could cause ascillation, LOW = slow convergence and stuck at local minima
+  - optimal range is usually between model 0.1 and 0.00001
+- stochastic gradient descent / multi batch SGD: different types of gradient descent methods
+- EPOCH = one complete pass of entire training dataset through learning algorithm
+  - multiple iterations (number of batches to cover one dataset)
 
 ## 03/15/2026
 
